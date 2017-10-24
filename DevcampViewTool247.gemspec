@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "makes the copyright at the bottom"
   spec.description   = "n/a"
-  spec.homepage      = "github.com/user/ninja247"
+  spec.homepage      = "https://github.com/ninja247/DevcampViewTool247"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
     f.match(%r{^(test|spec|features)/})
